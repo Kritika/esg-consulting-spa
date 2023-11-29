@@ -1,0 +1,66 @@
+/* AboutUs.css */
+.landing-page {
+    background-color: #f5f5f5;
+    padding: 40px 0;
+  }
+  
+  .row.text-and-image {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 20px;
+  }
+  
+  .main-text {
+    flex: 1;
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  .title-container {
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    font-size: 3em;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    color: #385723;
+  }
+  
+  .main-image {
+    flex: 1;
+    height: 262px;
+    background-size: cover;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .main-image:hover {
+    transform: scale(1.05);
+  }
+  
+  .content-area {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .wysiwyg.main-content {
+    max-width: 800px;
+    text-align: justify;
+  }
+  
+  .wysiwyg.main-content p {
+    margin-bottom: 15px;
+    line-height: 1.6;
+  }
+  
+  /* Add any additional styles as needed */
+  

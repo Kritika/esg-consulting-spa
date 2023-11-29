@@ -1,0 +1,26 @@
+/* Footer.css */
+.footer {
+    background-color: #385723;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .footer p {
+    margin: 8px 0;
+  }
+  
+  .footer a {
+    color: white;
+    text-decoration: underline;
+  }
+  
+  .footer a:hover {
+    color: #fff7e6; /* Lighten the color on hover */
+  }
+  
