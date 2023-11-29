@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/esg-consulting-spa.git/static/css/main.2fd80d11.css",
+    "main.js": "/esg-consulting-spa.git/static/js/main.721f0779.js",
+    "static/js/787.de2ebd6c.chunk.js": "/esg-consulting-spa.git/static/js/787.de2ebd6c.chunk.js",
+    "static/media/banner2.jpg": "/esg-consulting-spa.git/static/media/banner2.7cfa821868e2b028bfbe.jpg",
+    "index.html": "/esg-consulting-spa.git/index.html",
+    "main.2fd80d11.css.map": "/esg-consulting-spa.git/static/css/main.2fd80d11.css.map",
+    "main.721f0779.js.map": "/esg-consulting-spa.git/static/js/main.721f0779.js.map",
+    "787.de2ebd6c.chunk.js.map": "/esg-consulting-spa.git/static/js/787.de2ebd6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fd80d11.css",
+    "static/js/main.721f0779.js"
+  ]
+}
