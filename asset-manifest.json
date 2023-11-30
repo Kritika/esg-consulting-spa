@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/esg-consulting-spa/static/css/main.0050d9a0.css",
-    "main.js": "/esg-consulting-spa/static/js/main.f35a2607.js",
+    "main.js": "/esg-consulting-spa/static/js/main.521231fc.js",
     "static/js/787.de2ebd6c.chunk.js": "/esg-consulting-spa/static/js/787.de2ebd6c.chunk.js",
     "static/media/banner2.jpg": "/esg-consulting-spa/static/media/banner2.7cfa821868e2b028bfbe.jpg",
     "index.html": "/esg-consulting-spa/index.html",
     "main.0050d9a0.css.map": "/esg-consulting-spa/static/css/main.0050d9a0.css.map",
-    "main.f35a2607.js.map": "/esg-consulting-spa/static/js/main.f35a2607.js.map",
+    "main.521231fc.js.map": "/esg-consulting-spa/static/js/main.521231fc.js.map",
     "787.de2ebd6c.chunk.js.map": "/esg-consulting-spa/static/js/787.de2ebd6c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0050d9a0.css",
-    "static/js/main.f35a2607.js"
+    "static/js/main.521231fc.js"
   ]
 }
