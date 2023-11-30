@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/esg-consulting-spa/static/css/main.0050d9a0.css",
-    "main.js": "/esg-consulting-spa/static/js/main.ee0da189.js",
-    "static/js/787.de2ebd6c.chunk.js": "/esg-consulting-spa/static/js/787.de2ebd6c.chunk.js",
-    "static/media/banner2.jpg": "/esg-consulting-spa/static/media/banner2.7cfa821868e2b028bfbe.jpg",
-    "index.html": "/esg-consulting-spa/index.html",
-    "main.0050d9a0.css.map": "/esg-consulting-spa/static/css/main.0050d9a0.css.map",
-    "main.ee0da189.js.map": "/esg-consulting-spa/static/js/main.ee0da189.js.map",
-    "787.de2ebd6c.chunk.js.map": "/esg-consulting-spa/static/js/787.de2ebd6c.chunk.js.map"
+    "main.css": "/prakriti/static/css/main.d8f7bd70.css",
+    "main.js": "/prakriti/static/js/main.bb3da3b5.js",
+    "static/js/787.de2ebd6c.chunk.js": "/prakriti/static/js/787.de2ebd6c.chunk.js",
+    "static/media/banner2.jpg": "/prakriti/static/media/banner2.7cfa821868e2b028bfbe.jpg",
+    "static/media/prakriti.jpeg": "/prakriti/static/media/prakriti.778164feb0f6a12af160.jpeg",
+    "index.html": "/prakriti/index.html",
+    "main.d8f7bd70.css.map": "/prakriti/static/css/main.d8f7bd70.css.map",
+    "main.bb3da3b5.js.map": "/prakriti/static/js/main.bb3da3b5.js.map",
+    "787.de2ebd6c.chunk.js.map": "/prakriti/static/js/787.de2ebd6c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0050d9a0.css",
-    "static/js/main.ee0da189.js"
+    "static/css/main.d8f7bd70.css",
+    "static/js/main.bb3da3b5.js"
   ]
 }
