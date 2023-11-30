@@ -30,7 +30,7 @@ const BlogESG = () => {
           </ul>
           <p>
             Dive deeper into the world of ESG and discover actionable insights for your business.
-            <Link to="/blog-understanding-esg"> Click here to know more! </Link>
+            <Link to="/prakriti/blog-understanding-esg"> Click here to know more! </Link>
           </p>
         </div>
       ) : null}

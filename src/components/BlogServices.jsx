@@ -29,7 +29,7 @@ const BlogServices = () => {
           </ul>
           <p>
             Learn how these services contribute to environmental stewardship, social impact, and governance excellence.
-            <Link to="/blog-transformative-services"> Click here to know more! </Link>
+            <Link to="/prakriti/blog-transformative-services"> Click here to know more! </Link>
 
           </p>
         </div>

@@ -17,13 +17,13 @@ function App() {
       <div>
         <Navigation />
         <Routes>
-        <Route path="/about" element={<AboutUs />} />
-        <Route path="/services" element={<Services />} />
-        <Route path="/blog" element={<Blogs />} />
-        <Route path="/contact" element={<ContactUs />} />
-        <Route path="/blog-understanding-esg"  element={<BlogESGFullContent/>} />
-        <Route path="/blog-transformative-services"  element={<BlogServicesFullContent/>} />
-        <Route path="/" element={<Home />} />
+        <Route path="/prakriti/about" element={<AboutUs />} />
+        <Route path="/prakriti/services" element={<Services />} />
+        <Route path="/prakriti/blog" element={<Blogs />} />
+        <Route path="/prakriti/contact" element={<ContactUs />} />
+        <Route path="/prakriti/blog-understanding-esg"  element={<BlogESGFullContent/>} />
+        <Route path="/prakriti/blog-transformative-services"  element={<BlogServicesFullContent/>} />
+        <Route path="/prakriti" element={<Home />} />
         </Routes>
         <Footer/>
       </div>

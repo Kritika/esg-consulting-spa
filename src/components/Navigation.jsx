@@ -20,19 +20,19 @@ const Navigation = () => {
 
                     <ul className="menu">
                         <li>
-                            <Link to="/">Home</Link>
+                            <Link to="/prakriti">Home</Link>
                         </li>
                         <li>
-                            <Link to="/about">About</Link>
+                            <Link to="/prakriti/about">About</Link>
                         </li>
                         <li>
-                            <Link to="/services">Services</Link>
+                            <Link to="/prakriti/services">Services</Link>
                         </li>
                         <li>
-                            <Link to="/blog">Blog</Link>
+                            <Link to="/prakriti/blog">Blog</Link>
                         </li>
                         <li>
-                            <Link to="/contact">Contact</Link>
+                            <Link to="/prakriti/contact">Contact</Link>
                         </li>
 
                     </ul>
